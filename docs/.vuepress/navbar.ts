@@ -9,7 +9,8 @@ export const navbar = defineNavbarConfig([
     text: '笔记',
     items: [
       { text: 'vue', link: '/notes/vue/README.md' },
-      { text: 'javascript', link: '/notes/demo/README.md' }
+      { text: 'JavaScript', link: '/notes/demo/README.md' },
+      { text: 'TypeScript', link: '/' }
     ]
   },
 ])
